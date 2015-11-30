@@ -10,7 +10,7 @@
 			</div>
 		</article>
 		<article class="col-sm-offset-1 col-sm-6 comments">
-			<div class="row">
+			<div class="row center-block">
 				<a href="/forum/search.php?search_id=unreadposts"><h4>Sur le forum en ce moment ...</h4></a>
 				<ul class="list3">
 					{$listForum}
