@@ -87,14 +87,15 @@
 									<li><a href="/index.php?page=money"><i class="fa fa-usd"></i> Achat de $RP</a></li>
 								</ul>
 							</li>
-							<li class="dropdown"><a href="/wiki">WiKi <span class="caret hidden-xs"></span></a>
+							<li class="dropdown"><a href="/index.php?page=aide">Tutoriel<span class="caret hidden-xs"></span></a>
 								<ul class="dropdown-menu">
-									<li><a href="/wiki/Bien_d%C3%A9buter"><i class="fa fa-key"></i> Comment bien débuter?</a></li>
-									<li><a href="/wiki/Trouver_un_job"><i class="fa fa-suitcase"></i> Comment trouver un job?</a></li>
-									<li><a href="/wiki/Gagner_de_l%27argent"><i class="fa fa-money"></i> Comment gagner de l'argent?</a></li>
-									<li><a href="/wiki/Les_binds"><i class="fa fa-keyboard-o"></i> Mettre en place vos binds</a></li>
-									<li><a href="/wiki/Le_rang_no-pyj"><i class="fa fa-ticket"></i> Qu'est-ce que le rang no-pyj ?</a></li>
+                                					<li><a href="/index.php?page=debuter"><i class="fa fa-key"></i> Bienvenue à Princeton-City</a></li>
+									<li><a href="/index.php?page=job"><i class="fa fa-suitcase"></i> Trouver un job</a></li>
+									<li><a href="/index.php?page=argent"><i class="fa fa-money"></i> Gagner de L'argent</a></li>
+									<li><a href="/index.php?page=bind"><i class="fa fa-keyboard-o"></i> Faire des Binds</a></li>
+									<li><a href="/index.php?page=nopyj"><i class="fa fa-graduation-cap"></i> Qu'est-ce que le rang no-pyj ?</a></li>
 								</ul>
+							</li>
 							<li class="dropdown">
 								<a href="/forum/">FORUM <span class="caret hidden-xs"></span></a>
 								<ul class="dropdown-menu">
