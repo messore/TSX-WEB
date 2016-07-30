@@ -89,11 +89,11 @@
 							</li>
 							<li class="dropdown"><a href="/index.php?page=aide">Tutoriel<span class="caret hidden-xs"></span></a>
 								<ul class="dropdown-menu">
-                                					<li><a href="/index.php?page=debuter"><i class="fa fa-key"></i> Bienvenue à Princeton-City</a></li>
-									<li><a href="/index.php?page=job"><i class="fa fa-suitcase"></i> Trouver un job</a></li>
-									<li><a href="/index.php?page=argent"><i class="fa fa-money"></i> Gagner de L'argent</a></li>
-									<li><a href="/index.php?page=bind"><i class="fa fa-keyboard-o"></i> Faire des Binds</a></li>
-									<li><a href="/index.php?page=nopyj"><i class="fa fa-graduation-cap"></i> Qu'est-ce que le rang no-pyj ?</a></li>
+                                					<li><a href="/index.php?page=aide&sub=debuter"><i class="fa fa-key"></i> Bienvenue à Princeton-City</a></li>
+									<li><a href="/index.php?page=aide&sub=job"><i class="fa fa-suitcase"></i> Trouver un job</a></li>
+									<li><a href="/index.php?page=aide&sub=argent"><i class="fa fa-money"></i> Gagner de L'argent</a></li>
+									<li><a href="/index.php?page=aide&sub=bind"><i class="fa fa-keyboard-o"></i> Faire des Binds</a></li>
+									<li><a href="/index.php?page=aide&sub=nopyj"><i class="fa fa-graduation-cap"></i> Qu'est-ce que le rang no-pyj ?</a></li>
 								</ul>
 							</li>
 							<li class="dropdown">
