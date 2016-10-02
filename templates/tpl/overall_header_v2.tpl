@@ -57,7 +57,7 @@
 							<span class="sr-only">Toggle navigation</span>
 							<span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
 						</button>
-						<a class="navbar-brand" href="./"><img src="/images/bleue2.png" alt="tsX" width="400" height="100" style="max-height:100px !important"/></a>
+						<a class="navbar-brand" href="./"><img src="/images/bleue32.png" alt="tsX" width="400" height="100" style="max-height:100px !important"/></a>
 					</div>
 					<div id="navbar" class="navbar-collapse collapse">
 						<ul class="nav navbar-nav navbar-right" style="z-index:2;">
@@ -87,10 +87,10 @@
 									<li><a href="/index.php?page=money"><i class="fa fa-usd"></i> Achat de $RP</a></li>
 								</ul>
 							</li>
-							<li class="dropdown"><a href="/index.php?page=aide">Tutoriel<span class="caret hidden-xs"></span></a>
+							<li class="dropdown"><a href="/index.php?page=aide">Aide<span class="caret hidden-xs"></span></a>
 								<ul class="dropdown-menu">
                                 					<li><a href="/index.php?page=aide&sub=debuter"><i class="fa fa-key"></i> Bienvenue à Princeton-City</a></li>
-									<li><a href="/index.php?page=aide&sub=job"><i class="fa fa-suitcase"></i> Trouver un job</a></li>
+									<li><a href="/index.php?page=aide&sub=emploi"><i class="fa fa-suitcase"></i> Trouver un job</a></li>
 									<li><a href="/index.php?page=aide&sub=argent"><i class="fa fa-money"></i> Gagner de L'argent</a></li>
 									<li><a href="/index.php?page=aide&sub=bind"><i class="fa fa-keyboard-o"></i> Faire des Binds</a></li>
 									<li><a href="/index.php?page=aide&sub=nopyj"><i class="fa fa-graduation-cap"></i> Qu'est-ce que le rang no-pyj ?</a></li>
